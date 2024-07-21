@@ -1,0 +1,89 @@
+Customer ID,Age,Gender,Income,Occupation,Location,Purchase Frequency,total_spend,purchase_frequency,Cluster
+1,56,Male,45939,Lawyer,New York,15,816.16,2,2
+2,69,Male,68925,Teacher,Houston,6,3006.95,2,2
+3,46,Male,62941,Artist,Phoenix,8,813.32,1,2
+4,32,Male,41834,Artist,Phoenix,5,1223.92,2,2
+5,60,Male,38047,Teacher,New York,16,1128.27,2,2
+7,38,Male,95766,Teacher,Los Angeles,6,4252.26,2,1
+8,56,Female,35707,Doctor,New York,5,5368.21,2,2
+9,36,Female,41976,Teacher,Los Angeles,16,9164.33,3,0
+10,40,Female,64262,Teacher,Los Angeles,13,4175.62,3,0
+12,28,Male,43776,Artist,Los Angeles,13,9213.38,6,0
+13,41,Male,50080,Engineer,Los Angeles,17,4817.72,5,0
+14,53,Male,148376,Engineer,Chicago,18,2971.36,1,1
+16,41,Male,81373,Engineer,Los Angeles,13,6200.21,4,0
+17,20,Male,26776,Teacher,Los Angeles,19,1935.42,3,2
+18,39,Male,112787,Artist,New York,3,245.04,1,1
+19,19,Male,147948,Engineer,New York,8,5027.59,5,0
+20,41,Male,75016,Engineer,New York,2,2639.76,1,2
+21,61,Female,29474,Doctor,Chicago,8,737.58,1,2
+23,55,Female,78053,Teacher,Los Angeles,13,5935.63,4,0
+24,19,Male,41959,Artist,Los Angeles,1,4529.33,4,0
+25,38,Female,25530,Doctor,Chicago,6,1880.56,1,2
+26,50,Male,114856,Engineer,Los Angeles,19,1290.15,1,1
+27,29,Male,139101,Artist,New York,16,956.12,1,1
+28,39,Female,23748,Artist,Phoenix,8,316.69,1,2
+29,61,Female,117504,Engineer,Houston,1,3750.13,3,0
+30,42,Female,118098,Doctor,Los Angeles,16,3891.6,1,1
+31,66,Male,33545,Engineer,New York,9,2215.3,1,2
+32,44,Female,147659,Artist,Houston,13,404.56,1,1
+33,59,Male,86199,Lawyer,Phoenix,11,5941.29,4,0
+34,45,Male,54766,Lawyer,Houston,13,342.64,2,2
+35,33,Female,93530,Teacher,New York,10,3082.96,3,0
+36,32,Female,113557,Engineer,Houston,4,8701.05,4,0
+37,64,Male,81087,Engineer,Chicago,6,1024.42,2,2
+38,68,Male,115839,Teacher,Houston,7,943.88,1,1
+39,61,Female,136183,Teacher,Los Angeles,5,9740.26,6,0
+40,69,Female,88840,Teacher,Los Angeles,11,2875.74,2,2
+42,54,Male,74384,Engineer,New York,19,4422.03,2,2
+43,68,Male,71005,Artist,Los Angeles,10,2241.59,2,2
+44,24,Male,66576,Teacher,Phoenix,10,302.45,1,1
+45,38,Male,59353,Engineer,Los Angeles,11,2114.24,2,2
+46,26,Male,82003,Artist,Los Angeles,7,6371.51,2,0
+47,56,Male,103211,Artist,New York,18,1101.6,1,1
+48,35,Female,72733,Teacher,Houston,4,860.58,1,1
+49,21,Male,85318,Engineer,Los Angeles,2,3405.38,2,1
+50,42,Male,129953,Teacher,Chicago,14,2628.8,2,1
+51,31,Male,109474,Engineer,Houston,13,2681.6,1,1
+52,67,Female,43664,Lawyer,Phoenix,12,1035.05,3,2
+53,26,Male,87172,Doctor,New York,7,6146.84,2,0
+54,43,Male,105616,Doctor,Phoenix,2,285.63,1,1
+55,19,Female,145879,Doctor,Houston,13,778.5,1,1
+57,45,Male,135386,Lawyer,Houston,17,634.96,1,1
+58,64,Male,46736,Engineer,Phoenix,9,6437.03,5,0
+59,24,Male,114209,Artist,Houston,17,483.56,1,1
+61,25,Female,132859,Artist,Houston,2,5901.28,4,0
+62,64,Female,132181,Engineer,Chicago,13,2654.55,4,0
+64,31,Male,110084,Artist,Phoenix,16,397.02,1,1
+65,34,Male,58623,Teacher,Los Angeles,6,337.06,2,2
+66,53,Male,27392,Engineer,Houston,19,1552.85,1,2
+67,67,Female,75680,Engineer,Los Angeles,7,1768.95,2,2
+68,57,Male,146354,Artist,Chicago,10,385.2,1,1
+69,21,Male,66717,Teacher,New York,9,4075.7,4,0
+70,19,Female,139937,Teacher,Chicago,2,484.86,1,1
+71,23,Male,107092,Lawyer,Houston,15,686.5,2,1
+72,59,Female,70859,Teacher,Los Angeles,5,73.46,1,2
+73,21,Female,145657,Teacher,Los Angeles,4,698.44,1,1
+74,46,Female,124095,Teacher,Phoenix,4,4209.5,4,0
+75,35,Male,46309,Doctor,Los Angeles,18,1556.91,2,2
+76,43,Male,107455,Lawyer,Phoenix,4,4402.96,3,0
+77,61,Male,83734,Engineer,New York,17,993.21,1,2
+78,51,Male,90467,Artist,Houston,12,1332.39,1,1
+80,53,Male,118506,Lawyer,New York,10,198.06,1,1
+81,31,Male,129751,Artist,Los Angeles,1,915.18,1,1
+82,48,Female,138906,Lawyer,Los Angeles,18,117.28,1,1
+83,65,Male,32688,Teacher,New York,18,2430.07,2,2
+84,32,Female,45342,Artist,Los Angeles,14,3669,2,2
+85,25,Male,57157,Teacher,New York,15,4029.94,2,2
+86,31,Male,87863,Engineer,Phoenix,12,3278.57,2,1
+87,40,Male,126308,Engineer,Phoenix,4,1790.67,2,1
+89,38,Female,126081,Artist,Phoenix,12,3571.96,4,0
+90,33,Female,85733,Lawyer,Phoenix,7,3987.12,5,0
+91,62,Female,109045,Lawyer,Phoenix,11,3281.86,2,1
+92,35,Male,54698,Teacher,Chicago,1,4885.24,4,0
+93,64,Female,130078,Artist,Houston,6,2993.52,2,1
+94,41,Male,100623,Engineer,Los Angeles,15,2788.14,2,1
+95,43,Male,42671,Lawyer,Chicago,15,2835.5,4,0
+96,42,Female,45184,Lawyer,Phoenix,19,3936.45,3,2
+99,46,Female,106202,Teacher,Houston,14,9545.6,4,0
+100,32,Female,129893,Artist,Phoenix,2,2759.47,4,0

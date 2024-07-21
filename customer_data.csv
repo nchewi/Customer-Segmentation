@@ -1,0 +1,101 @@
+Customer ID,Age,Gender,Income,Occupation,Location,Purchase Frequency
+1,56,Male,45939,Lawyer,New York,15
+2,69,Male,68925,Teacher,Houston,6
+3,46,Male,62941,Artist,Phoenix,8
+4,32,Male,41834,Artist,Phoenix,5
+5,60,Male,38047,Teacher,New York,16
+6,25,Female,46105,Artist,Chicago,18
+7,38,Male,95766,Teacher,Los Angeles,6
+8,56,Female,35707,Doctor,New York,5
+9,36,Female,41976,Teacher,Los Angeles,16
+10,40,Female,64262,Teacher,Los Angeles,13
+11,28,Male,145117,Artist,Chicago,5
+12,28,Male,43776,Artist,Los Angeles,13
+13,41,Male,50080,Engineer,Los Angeles,17
+14,53,Male,148376,Engineer,Chicago,18
+15,57,Female,86842,Doctor,Los Angeles,8
+16,41,Male,81373,Engineer,Los Angeles,13
+17,20,Male,26776,Teacher,Los Angeles,19
+18,39,Male,112787,Artist,New York,3
+19,19,Male,147948,Engineer,New York,8
+20,41,Male,75016,Engineer,New York,2
+21,61,Female,29474,Doctor,Chicago,8
+22,47,Male,125830,Doctor,Phoenix,13
+23,55,Female,78053,Teacher,Los Angeles,13
+24,19,Male,41959,Artist,Los Angeles,1
+25,38,Female,25530,Doctor,Chicago,6
+26,50,Male,114856,Engineer,Los Angeles,19
+27,29,Male,139101,Artist,New York,16
+28,39,Female,23748,Artist,Phoenix,8
+29,61,Female,117504,Engineer,Houston,1
+30,42,Female,118098,Doctor,Los Angeles,16
+31,66,Male,33545,Engineer,New York,9
+32,44,Female,147659,Artist,Houston,13
+33,59,Male,86199,Lawyer,Phoenix,11
+34,45,Male,54766,Lawyer,Houston,13
+35,33,Female,93530,Teacher,New York,10
+36,32,Female,113557,Engineer,Houston,4
+37,64,Male,81087,Engineer,Chicago,6
+38,68,Male,115839,Teacher,Houston,7
+39,61,Female,136183,Teacher,Los Angeles,5
+40,69,Female,88840,Teacher,Los Angeles,11
+41,20,Female,138451,Artist,Chicago,13
+42,54,Male,74384,Engineer,New York,19
+43,68,Male,71005,Artist,Los Angeles,10
+44,24,Male,66576,Teacher,Phoenix,10
+45,38,Male,59353,Engineer,Los Angeles,11
+46,26,Male,82003,Artist,Los Angeles,7
+47,56,Male,103211,Artist,New York,18
+48,35,Female,72733,Teacher,Houston,4
+49,21,Male,85318,Engineer,Los Angeles,2
+50,42,Male,129953,Teacher,Chicago,14
+51,31,Male,109474,Engineer,Houston,13
+52,67,Female,43664,Lawyer,Phoenix,12
+53,26,Male,87172,Doctor,New York,7
+54,43,Male,105616,Doctor,Phoenix,2
+55,19,Female,145879,Doctor,Houston,13
+56,37,Male,113264,Teacher,Houston,14
+57,45,Male,135386,Lawyer,Houston,17
+58,64,Male,46736,Engineer,Phoenix,9
+59,24,Male,114209,Artist,Houston,17
+60,61,Male,123041,Engineer,Phoenix,8
+61,25,Female,132859,Artist,Houston,2
+62,64,Female,132181,Engineer,Chicago,13
+63,52,Female,20854,Lawyer,Houston,3
+64,31,Male,110084,Artist,Phoenix,16
+65,34,Male,58623,Teacher,Los Angeles,6
+66,53,Male,27392,Engineer,Houston,19
+67,67,Female,75680,Engineer,Los Angeles,7
+68,57,Male,146354,Artist,Chicago,10
+69,21,Male,66717,Teacher,New York,9
+70,19,Female,139937,Teacher,Chicago,2
+71,23,Male,107092,Lawyer,Houston,15
+72,59,Female,70859,Teacher,Los Angeles,5
+73,21,Female,145657,Teacher,Los Angeles,4
+74,46,Female,124095,Teacher,Phoenix,4
+75,35,Male,46309,Doctor,Los Angeles,18
+76,43,Male,107455,Lawyer,Phoenix,4
+77,61,Male,83734,Engineer,New York,17
+78,51,Male,90467,Artist,Houston,12
+79,27,Male,72662,Engineer,Phoenix,17
+80,53,Male,118506,Lawyer,New York,10
+81,31,Male,129751,Artist,Los Angeles,1
+82,48,Female,138906,Lawyer,Los Angeles,18
+83,65,Male,32688,Teacher,New York,18
+84,32,Female,45342,Artist,Los Angeles,14
+85,25,Male,57157,Teacher,New York,15
+86,31,Male,87863,Engineer,Phoenix,12
+87,40,Male,126308,Engineer,Phoenix,4
+88,57,Female,72083,Artist,New York,3
+89,38,Female,126081,Artist,Phoenix,12
+90,33,Female,85733,Lawyer,Phoenix,7
+91,62,Female,109045,Lawyer,Phoenix,11
+92,35,Male,54698,Teacher,Chicago,1
+93,64,Female,130078,Artist,Houston,6
+94,41,Male,100623,Engineer,Los Angeles,15
+95,43,Male,42671,Lawyer,Chicago,15
+96,42,Female,45184,Lawyer,Phoenix,19
+97,62,Female,113384,Engineer,New York,11
+98,58,Female,62107,Lawyer,Phoenix,2
+99,46,Female,106202,Teacher,Houston,14
+100,32,Female,129893,Artist,Phoenix,2
